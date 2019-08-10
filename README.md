@@ -6,4 +6,4 @@ Love ordering online? Welcome to Bamazon! Browse through our inventory and make 
 
 * Bamazon will display the inventory level and give you a total for your purchase!
 
-![PackageInstall] (images/bamazon.png)
+![PackageInstall](images/bamazon.png)
