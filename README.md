@@ -5,3 +5,5 @@ Love ordering online? Welcome to Bamazon! Browse through our inventory and make 
 * Enter the item ID #, and the amount you would like to purchase.
 
 * Bamazon will display the inventory level and give you a total for your purchase!
+
+![PackageInstall] (images/bamazon.png)
